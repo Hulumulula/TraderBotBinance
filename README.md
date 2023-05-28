@@ -5,11 +5,15 @@ TraderBotBinance - это тестовый бот,
 
 ### Настройка проекта:
 Создайте папку под проект и перейдите в неё  
-Скачайте этот git-репозиторий  
-```git clone https://github.com/Hulumulula/```  
-Создайте виртуальное окружение  
+Клонируйте этот git-репозиторий  
+```bash
+git clone https://github.com/Hulumulula/
+```  
+Создайте виртуальное окружение и перейдите в него    
 Установите пакеты из requierments.txt  
-```pip install -r requierments.txt```  
+```bash
+pip install -r requierments.txt
+```  
 Создайте рядом с `main.py` файл  
 `.env` по подобию `.env-example`  
 Перейдите по ссылке `https://testnet.binance.vision/`  
@@ -18,6 +22,10 @@ TraderBotBinance - это тестовый бот,
 
 ### Запуск проекта:
 Для запуска проекта используйте команду:  
-```python main.py```  
+```bash
+python main.py
+```  
 Для запуска тестов используйте команду:  
-```python -m unittest tests.py```  
+```bash
+python -m unittest tests.py
+```  
