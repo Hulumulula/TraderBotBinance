@@ -1,0 +1,13 @@
+binance-connector==3.0.0
+certifi==2023.5.7
+charset-normalizer==3.1.0
+coverage==7.2.6
+idna==3.4
+pip==23.0.1
+pycryptodome==3.18.0
+python-dotenv==1.0.0
+requests==2.31.0
+setuptools==66.0.0
+urllib3==2.0.2
+websocket-client==1.5.2
+wheel==0.38.4
